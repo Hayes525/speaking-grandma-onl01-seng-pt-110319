@@ -11,4 +11,5 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-if speak_to_grandma(phrase == )
+if speak_to_grandma("")
+  return ""
